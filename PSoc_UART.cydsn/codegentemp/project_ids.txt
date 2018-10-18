@@ -1,0 +1,5 @@
+C:\Program Files\Cypress\PSoC Creator\3.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|5bd860d6-734c-467c-bde1-29d4abff4fff
+C:\Program Files\Cypress\PSoC Creator\3.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|4e6fd1b9-5225-4747-bb2a-d1f95ce7ed2e
+C:\Program Files\Cypress\PSoC Creator\3.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|a48f18d2-0e2b-445d-acd4-1e59eec58714
+C:\Program Files\Cypress\PSoC Creator\3.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|daadfd19-b0c2-44c7-a3c7-6b759eeba513
+D:\Virag_Forum_PSoC\PSoc_UART\PSoc_UART.cydsn\PSoc_UART.cyprj|c5a2cedc-0e26-42cd-a1dc-2b221922782e

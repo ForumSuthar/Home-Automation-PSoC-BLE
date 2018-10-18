@@ -1,0 +1,9 @@
+--------------- Build Started: 06/24/2015 11:26:10 Project: PSoc_UART, Configuration: ARM GCC 4.8.4 Debug ---------------
+The code generation step is up to date.
+The compile step is up to date, no work needs to be done.
+The link step is up to date, no work needs to be done.
+cyelftool.exe -C D:\Virag_Forum_PSoC\PSoc_UART\PSoc_UART.cydsn\CortexM0\ARM_GCC_484\Debug\PSoc_UART.elf --flash_row_size 128 --flash_size 32768
+cyelftool.exe -S D:\Virag_Forum_PSoC\PSoc_UART\PSoc_UART.cydsn\CortexM0\ARM_GCC_484\Debug\PSoc_UART.elf
+Flash used: 2816 of 32768 bytes (8.6 %).
+SRAM used: 1436 of 4096 bytes (35.1 %). Stack: 1024 bytes. Heap: 128 bytes.
+--------------- Build Succeeded: 06/24/2015 11:26:14 ---------------
